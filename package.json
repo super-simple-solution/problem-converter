@@ -7,6 +7,9 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "highlight.js": "^11.4.0",
+    "katex": "^0.15.2",
+    "markdown-it": "^12.3.2",
     "remove": "^0.1.5",
     "vue": "^3.2.25"
   },
