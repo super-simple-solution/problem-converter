@@ -1,6 +1,1 @@
-<script setup>
-</script>
-
-<template>
-test
-</template>
+<script setup></script>
